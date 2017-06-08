@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C0f7"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:padding="5dp"
+            android:layout_weight="50">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:scaleType="fitXY"
+                android:id="@+id/imageView"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:layout_weight="50"
+            android:padding="5dp"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="16"
+                android:maxLines="1"
+                android:textStyle="bold"
+                android:ellipsize="marquee"
+                android:scrollHorizontally="true"
+                android:id="@+id/titleTV"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="16"
+                android:maxLines="1"
+                android:textStyle="bold"
+                android:ellipsize="marquee"
+                android:scrollHorizontally="true"
+                android:id="@+id/yearTV"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="16"
+                android:maxLines="1"
+                android:textStyle="bold"
+                android:ellipsize="marquee"
+                android:scrollHorizontally="true"
+                android:id="@+id/actorsTV"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="16"
+                android:maxLines="1"
+                android:textStyle="bold"
+                android:ellipsize="marquee"
+                android:scrollHorizontally="true"
+                android:id="@+id/directorTV"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="16"
+                android:maxLines="1"
+                android:textStyle="bold"
+                android:ellipsize="marquee"
+                android:scrollHorizontally="true"
+                android:id="@+id/genreTV"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="16"
+                android:maxLines="1"
+                android:textStyle="bold"
+                android:ellipsize="marquee"
+                android:scrollHorizontally="true"
+                android:id="@+id/runtimeTV"/>
+        </LinearLayout>
+    </LinearLayout>
+
+ <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:padding="5dp"
+            android:id="@+id/plotTV"/>
+
+</LinearLayout>
+

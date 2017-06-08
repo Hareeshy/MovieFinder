@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_aeb725a2201ff81c232b385c2f77e901d80a89ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_a06446648b57e29a920d27bbb1dc7ceb40d06e08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_f5e7f4335da76417ce93d4b9af65692103188ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\okio-1.8.0_32961765706ce9049436aca03105676db961699c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_a498c773159950afec87ba4662eeb4b616ca383b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_2e135d2b3af46794c0d0e530499ec57348d69b5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_8693df3b7bf9645ed478860ff1927b9624828f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_b338657780d58e0620d28c585c9e59837b08671c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_02baeb670494e05445d1d19bd633f25b3b7164c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_1f94eae26a0693175f1e718bb80b81602fc5fde4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_375e5ff7b392863f9fcc78018388d44f3b1a51d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\gson-2.7_e2fa7830016ee1bc8364df86cd340e137653328a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5cc36e900633e61a3390e6fa01bc957e118c0fe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_87bf4d06e63824d81466da2f829026431d33ab9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_94c95556102d40e49acb3f74055e38ea06684b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_25595b85a778282abe945ef7f171ba4adea82fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_1afae6b5be93f46463d69eaeb237303d7c2f532d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Harish Reddy\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Harish Reddy\Downloads\MoviesAssignment\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_4c369d46924f5d158c9ff123b042b7233258d5c2.jar" />
+    </item>
+
+</items>
